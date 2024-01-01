@@ -4,7 +4,7 @@
 #include <linux/fs.h> // for register_chrdev
 MODULE_LICENSE("GPL");
 #include "iocdev.h"
-#define DEVICE_RANGE_NAME "hw5"
+#define DEVICE_RANGE_NAME "driver"
 #define buffer_len 100
 
 

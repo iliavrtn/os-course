@@ -12,10 +12,13 @@ To compile the program, use the following command:
 
 ```bash
 gcc -pthread semaphore_example.c -o semaphore_example
+ ```
+
 To run the program:
 
 ```bash
 ./semaphore_example
+```
 
 ## Components
 

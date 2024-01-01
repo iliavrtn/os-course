@@ -11,13 +11,13 @@ The simulation involves two types of threads: workers and tasks. Workers are res
 To compile the program, use the following command:
 
 ```bash
-gcc -pthread semaphore_example.c -o semaphore_example
+gcc -pthread dental_clinic.c -o dental_clinic
  ```
 
 To run the program:
 
 ```bash
-./semaphore_example
+./dental_clinic
 ```
 
 ## Components
